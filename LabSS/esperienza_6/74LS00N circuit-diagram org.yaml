@@ -1,0 +1,42 @@
+kind: ComponentConfiguration/v1
+metadata:
+  guid: 874b3e64-7619-4f23-8ace-e8ca9ccb2886
+  name: Untitled Configuration
+  version: 
+  description: 
+template:
+  name: Integrated Circuit 2
+  guid: 2cd49d7c-eb1a-4fe4-9104-c45023e3fc95
+properties:
+- name: Header
+  value: 74LS00N
+- name: Size
+  value: 14
+- name: Pin0
+  value: A_1
+- name: Pin1
+  value: VCC
+- name: Pin2
+  value: B_1
+- name: Pin3
+  value: B_4
+- name: Pin4
+  value: Q_1
+- name: Pin5
+  value: A_4
+- name: Pin6
+  value: A_2
+- name: Pin7
+  value: Q_4
+- name: Pin8
+  value: B_2
+- name: Pin9
+  value: B_3
+- name: Pin10
+  value: Q_2
+- name: Pin11
+  value: A_3
+- name: Pin12
+  value: GND
+- name: Pin13
+  value: Q_3
